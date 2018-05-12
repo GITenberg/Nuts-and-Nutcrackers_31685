@@ -1,0 +1,62 @@
+_repo: Nuts-and-Nutcrackers_31685
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Browne, Hablot Knight
+    aliases:
+    - Brown, Hablot K. (Hablot Knight)
+    - Browne, Hablot K. (Hablot Knight)
+    - Phiz
+    - Browne, H. K. (Hablot Knight)
+    birthdate: 1815
+    deathdate: 1882
+    gutenberg_agent_id: '24934'
+    url: http://www.gutenberg.org/2009/agents/24934
+    wikipedia: http://en.wikipedia.org/wiki/Hablot_Knight_Browne
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lever, Charles James
+    aliases:
+    - O'Dowd, Cornelius
+    - Lorrequer, Harry
+    birthdate: 1806
+    deathdate: 1872
+    gutenberg_agent_id: '1744'
+    url: http://www.gutenberg.org/2009/agents/1744
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Lever
+description: ''
+gutenberg_issued: '2010-03-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31685'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English essays -- 19th century'
+tableOfContents: 'An opening nut -- A nut for men of genius -- A nut for coroners
+  -- A nut for "tourists" -- A nut for legal functionaries -- A nut for "enduring
+  affection" -- A nut for the police and Sir Peter -- A nut for the budget -- A nut
+  for repeal -- A nut for national pride -- A nut for diplomatists -- A nut for foreign
+  travel -- A nut for domestic happiness -- A nut for ladies bountiful -- A nut for
+  the priests -- A nut for learned societies -- A nut for the lawyers -- A nut for
+  the Irish -- A nut for viceregal privileges -- Rich and poor: pour et contre --
+  A nut for St. Patrick''s night -- A nut for "gentleman jocks" -- A nut for younger
+  sons -- A nut for the penal code -- A nut for the old -- A nut for the Art Union
+  -- A nut for the Kingstown railway -- A nut for the doctors -- A nut for the architects
+  -- A nut for a new colony -- A "sweet" nut for the Yankees -- A nut for the season:
+  Jullien''s quadrilles -- A nut for "all Ireland" -- A nut for "a new company" --
+  A nut for "the political economists" -- A nut for "grand dukes" -- A nut for the
+  East India directors -- A filbert for Sir Robert Peel -- "The income tax" -- A nut
+  for the "Belges" -- A nut for workhouse chaplains -- A nut for the "house" -- A
+  nut for "law reform" -- A nut for "climbing boys" -- A nut for "the subdivision
+  of labour" -- A nut for a "new verdict" -- A nut for the real "liberator" -- A nut
+  for "her majesty''s servants" -- A nut for the Landlord and Tenant Commission --
+  A nut for the Humane Society.'
+title: Nuts and Nutcrackers
+url: http://www.gutenberg.org/ebooks/31685
